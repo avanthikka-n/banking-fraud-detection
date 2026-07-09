@@ -1,0 +1,12 @@
+data/raw/*.csv
+data/raw/PS_20174392719_1491204439457_log.csv
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+models/*.pkl
+logs/*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
