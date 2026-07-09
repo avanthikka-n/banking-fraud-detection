@@ -1,5 +1,5 @@
 data/raw/*.csv
-data/processed/*
+data/processed/*.csv
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 models/*.pkl
@@ -9,5 +9,3 @@ __pycache__/
 .ipynb_checkpoints/
 venv/
 .env
-data/raw/*.csv
-data/processed/*.csv
