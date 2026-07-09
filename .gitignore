@@ -10,3 +10,7 @@ __pycache__/
 .ipynb_checkpoints/
 venv/
 .env
+<<<<<<< HEAD
+=======
+data/raw/*.csv
+>>>>>>> 8c67335c5e01356912b5ffa5efb62548ad0a1592
