@@ -1,5 +1,5 @@
 data/raw/*.csv
-data/raw/PS_20174392719_1491204439457_log.csv
+data/raw/paysim.csv
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
@@ -8,9 +8,5 @@ logs/*.log
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-venv/
+ven/
 .env
-<<<<<<< HEAD
-=======
-data/raw/*.csv
->>>>>>> 8c67335c5e01356912b5ffa5efb62548ad0a1592
