@@ -1,6 +1,5 @@
 data/raw/*.csv
-data/raw/paysim.csv
-data/processed/*
+data/processed/*.csv
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 models/*.pkl
@@ -8,5 +7,5 @@ logs/*.log
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-ven/
+venv/
 .env
